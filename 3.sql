@@ -1,0 +1,1 @@
+SELECT Position, Count(Position)AS PositionCount FROM Everything GROUP BY Position
